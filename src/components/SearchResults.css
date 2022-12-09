@@ -1,0 +1,26 @@
+.grid {
+    border-radius: 10px;
+    /* background-color: #190061; */
+    padding: 1em;
+}
+
+.inner-grid {
+    color: #123c69;
+    background-image: linear-gradient(#5babff, #eae4e2, #fcfaf9); 
+    cursor: pointer;
+    border-radius: 20px;
+}
+
+.avatar {
+    margin: auto;
+    background-color: #EDC7B7;
+    color: #123C69;
+    margin-top: 0.7em;
+    padding: 0.2em;
+}
+
+.arrow {
+    position: absolute;
+    font-size: 20px;
+    right: 50px;
+}
