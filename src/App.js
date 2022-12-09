@@ -36,7 +36,7 @@ function App() {
 
   useEffect(()=>{
     if(debouncedSearch){
-      const url = `http://hn.algolia.com/api/v1/search?query=${debouncedSearch}`
+      const url = `https://hn.algolia.com/api/v1/search?query=${debouncedSearch}`
       dispatch(fetchSearchResults(url));
     }
   },[debouncedSearch, dispatch])

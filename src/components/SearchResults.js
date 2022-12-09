@@ -9,7 +9,7 @@ function SearchResults({ setOpen, id ,author, url, title }) {
     const dispatch = useDispatch();
 
     const onClickHandler = () => {
-        const url = `http://hn.algolia.com/api/v1/items/${id}`
+        const url = `https://hn.algolia.com/api/v1/items/${id}`
         dispatch(fetchItemDetails(url));
         setOpen(true);
     }
