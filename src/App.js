@@ -24,7 +24,7 @@ function App() {
   const [open,setOpen] = useState(false);
   const {data, success, loading} = useSelector(state => state.searchInput);
   const itemDetails = useSelector(state => state.itemDetails);
-  const debouncedSearch = useDebounce(input, 500);
+  const debouncedSearch = useDebounce(input, 1000);
   const dispatch = useDispatch();
 
   const handleClose = () => {
