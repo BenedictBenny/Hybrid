@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Hybrid/static/css/main.cb162dea.css",
-    "main.js": "/Hybrid/static/js/main.701d85e5.js",
+    "main.css": "/Hybrid/static/css/main.f25c9906.css",
+    "main.js": "/Hybrid/static/js/main.edebd719.js",
     "static/js/787.c89c3e68.chunk.js": "/Hybrid/static/js/787.c89c3e68.chunk.js",
     "index.html": "/Hybrid/index.html",
-    "main.cb162dea.css.map": "/Hybrid/static/css/main.cb162dea.css.map",
-    "main.701d85e5.js.map": "/Hybrid/static/js/main.701d85e5.js.map",
+    "main.f25c9906.css.map": "/Hybrid/static/css/main.f25c9906.css.map",
+    "main.edebd719.js.map": "/Hybrid/static/js/main.edebd719.js.map",
     "787.c89c3e68.chunk.js.map": "/Hybrid/static/js/787.c89c3e68.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cb162dea.css",
-    "static/js/main.701d85e5.js"
+    "static/css/main.f25c9906.css",
+    "static/js/main.edebd719.js"
   ]
 }
